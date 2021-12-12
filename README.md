@@ -1,4 +1,9 @@
+<p>
+    <img width="470" src="/src/gitgif/projetofinancegif.gif">
+</p>
+
 ## Instalações Necessarias
+
 NodeJs
 
 <h5>Para instalar o projeto</h5>
